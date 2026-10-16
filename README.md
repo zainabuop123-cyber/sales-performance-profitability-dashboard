@@ -32,7 +32,7 @@ Leadership needed a trustworthy view of sales, profit margin and target achievem
 ## Screenshots
 ![Sales and Profit Trend](Screenshot_2_Sales_Profit_Trend_Chart.png)
 ![SQL Studio](Screenshot_3_SQL_Studio.png)
-![Star Schema](images/Screenshot_4_Star_Schema_Data_Model.png)
+![Star Schema](Screenshot_4_Star_Schema_Data_Model.png)
 
 ## Repository Structure
 ```
