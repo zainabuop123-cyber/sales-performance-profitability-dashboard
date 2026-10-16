@@ -2,7 +2,7 @@
 
 Executive sales dashboard built on 5,020 retail orders: SQL data cleaning, star schema modeling, DAX KPIs and interactive BI reporting. **Tools:** Power BI, DAX, SQL.
 
-![Executive Overview](Screenshot_1_Executive_Overview_KPIs)
+![Executive Overview](Screenshot_1_Executive_Overview_KPIs.png)
 
 ## Business Problem
 Leadership needed a trustworthy view of sales, profit margin and target achievement across regions and product categories. The raw data needed cleaning and validation before any KPI could be trusted.
@@ -30,9 +30,9 @@ Leadership needed a trustworthy view of sales, profit margin and target achievem
 - (Insight 3)
 
 ## Screenshots
-![Sales and Profit Trend](Screenshot_2_Sales_Profit_Trend_Chart)
-![SQL Studio](Screenshot_3_SQL_Studio)
-![Star Schema](Screenshot_4_Star_Schema_Data_Model)
+![Sales and Profit Trend](Screenshot_2_Sales_Profit_Trend_Chart.png)
+![SQL Studio](Screenshot_3_SQL_Studio.png)
+![Star Schema](images/Screenshot_4_Star_Schema_Data_Model.png)
 
 ## Repository Structure
 ```
